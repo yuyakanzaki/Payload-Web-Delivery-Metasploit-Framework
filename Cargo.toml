@@ -1,0 +1,9 @@
+[package]
+name = "payload_yk"
+version = "0.1.0"
+authors = ["YuyaKanzaki"]
+
+[dependencies]
+winapi = "*"
+user32-sys = "*"
+kernel32-sys = "*"
